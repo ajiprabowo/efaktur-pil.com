@@ -1,0 +1,76 @@
+.file {
+			border: 1px solid #cfcdcd;
+			padding: 12px;
+			border-radius: 20px;
+			color: #171919;
+			width: 93%;
+			margin-bottom: 20px;
+		}
+		label {
+			margin-bottom: 5px;
+			display: inline-block;
+			font-weight: normal;
+		}
+		.imported-table {
+			font-size: 1.0em;
+			border-collapse: collapse;
+			width: 100%;
+		}
+
+		.imported-table th {
+			background: #f0f0f0;
+			border-bottom: 2px solid #dddddd;
+			padding: 10px;
+			text-align: left;
+		}
+
+		.imported-table td {
+			background: #FFF;
+			border-bottom: 1px solid #dddddd;
+			padding: 10px;
+			text-align: left;
+		}
+
+		#response {
+			padding: 10px;
+			margin-top: 10px;
+			border-radius: 2px;
+			
+		}
+
+		.success {
+			background: #c7efd9;
+			border: #bbe2cd 1px solid;
+		}
+
+		.error {
+			background: #fbcfcf;
+			border: #f3c6c7 1px solid;
+		}
+
+		div#response.display-block {
+			display: block;
+		}
+
+		.input-row {
+			margin-top: 0px;
+			margin-bottom: 20px;
+			
+		}
+		.btn-submit {
+			background: #efefef;
+			border: #d3d3d3 1px solid;
+			width: 94%;
+			border-radius: 20px;
+			cursor: pointer;
+			padding: 12px;
+		}
+		
+		.outer-container {
+			border: #e0dfdf 1px solid;
+			padding: 30px 30px 10px 30px;
+			border-radius: 15px;
+			text-align: center;
+			margin: 10px auto;
+			width: 350px;
+		}
